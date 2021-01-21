@@ -8,3 +8,5 @@ https://www.alura.com.br/curso-online-kafka-introducao-a-streams-em-microservico
 https://www.alura.com.br/curso-online-kafka-cluster-de-microservicos
 
 https://www.alura.com.br/curso-online-kafka-batches-correlation-ids-e-dead-letters
+
+https://www.alura.com.br/curso-online-kafka-idempotencia-e-garantias
